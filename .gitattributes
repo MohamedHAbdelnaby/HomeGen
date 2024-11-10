@@ -1,0 +1,2 @@
+HomeGen.ai_/Library/Artifacts/* filter=lfs diff=lfs merge=lfs -text
+HomeGen.ai_/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
